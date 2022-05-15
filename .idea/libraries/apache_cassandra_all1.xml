@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="apache.cassandra.all1" type="repository">
+    <properties maven-id="org.apache.cassandra:cassandra-all:4.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/cassandra/cassandra-all/4.0.1/cassandra-all-4.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.2.6/snappy-java-1.1.2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.1/commons-cli-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.2/commons-math3-3.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/antlr/ST4/4.0.8/ST4-4.0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.10/jackson-core-2.9.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.10.8/jackson-databind-2.9.10.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.10/jackson-annotations-2.9.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/boundary/high-scale-lib/1.0.6/high-scale-lib-1.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mindrot/jbcrypt/0.3m/jbcrypt-0.3m.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/airlift/airline/0.8/airline-0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/dropwizard/metrics/metrics-core/3.1.5/metrics-core-3.1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/dropwizard/metrics/metrics-jvm/3.1.5/metrics-jvm-3.1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/dropwizard/metrics/metrics-logback/3.1.5/metrics-logback-3.1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/addthis/metrics/reporter-config3/3.0.3/reporter-config3-3.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/addthis/metrics/reporter-config-base/3.0.3/reporter-config-base-3.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/clearspring/analytics/stream/2.5.2/stream-2.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.6.0/jna-5.6.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/jbellis/jamm/0.3.2/jamm-0.3.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.58.Final/netty-all-4.1.58.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/openhft/chronicle-queue/5.20.123/chronicle-queue-5.20.123.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/openhft/chronicle-core/2.20.126/chronicle-core-2.20.126.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/openhft/chronicle-bytes/2.20.111/chronicle-bytes-2.20.111.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/openhft/chronicle-wire/2.20.117/chronicle-wire-2.20.117.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/openhft/chronicle-threads/2.20.111/chronicle-threads-2.20.111.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/fusesource/sigar/1.6.4/sigar-1.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/caffinitas/ohc/ohc-core/0.5.1/ohc-core-0.5.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/caffinitas/ohc/ohc-core-j8/0.5.1/ohc-core-j8-0.5.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ben-manes/caffeine/caffeine/2.3.5/caffeine-2.3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jctools/jctools-core/3.1.0/jctools-core-3.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/7.1/asm-7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/carrotsearch/hppc/0.8.1/hppc-0.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gridkit/jvmtool/sjk-cli/0.14/sjk-cli-0.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gridkit/jvmtool/sjk-core/0.14/sjk-core-0.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gridkit/jvmtool/sjk-stacktrace/0.14/sjk-stacktrace-0.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gridkit/jvmtool/mxdump/0.14/mxdump-0.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gridkit/lab/jvm-attach-api/1.5/jvm-attach-api-1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.30/jcommander-1.30.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/gridkit/jvmtool/sjk-json/0.14/sjk-json-0.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/psjava/psjava/0.1.19/psjava-0.1.19.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-tcnative-boringssl-static/2.0.36.Final/netty-tcnative-boringssl-static-2.0.36.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hdrhistogram/HdrHistogram/2.1.9/HdrHistogram-2.1.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/de/jflex/jflex/1.8.2/jflex-1.8.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/vbmacher/java-cup-runtime/11b-20160615/java-cup-runtime-11b-20160615.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/rholder/snowball-stemmer/1.3.0.581.1/snowball-stemmer-1.3.0.581.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/concurrent-trees/concurrent-trees/2.4.0/concurrent-trees-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
